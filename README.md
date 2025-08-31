@@ -1,4 +1,4 @@
-### [MalDev-Analyzer-MCP](https://github.com/RootInj3c/MalDev-Analyzer-MCP)
+### [ShellSweep](https://github.com/splunk/ShellSweep)
 **Type:** Tool  
-**Tags:** Offensive Security, Forensics  
-**Description:** MalDev-Analyzer-MCP is a tool for analyzing malicious software, helping researchers understand malware behaviors and characteristics to enhance security protocols.
+**Tags:** Forensics  
+**Description:** ShellSweep is a forensics tool for detecting malicious shell script activity, helping analysts identify suspicious scripts and automate threat detection across systems.
